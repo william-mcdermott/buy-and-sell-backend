@@ -1,5 +1,5 @@
 import { getAllListingsRoute } from "./getAllListings";
-import { getListingRoute } from "./getListings";
+import { getListingRoute } from "./getListing";
 
 export default [
     getAllListingsRoute,
