@@ -15,8 +15,11 @@
     "@babel/runtime": "^7.21.0",
     "@hapi/boom": "^10.0.1",
     "@hapi/hapi": "^21.3.0",
+    "firebase-admin": "^11.5.0",
     "mysql": "^2.18.1",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "v18": "^1.0.2",
+    "v20": "^0.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.3",
