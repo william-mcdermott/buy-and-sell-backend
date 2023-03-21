@@ -1,4 +1,4 @@
-import * as auth from 'firebase-admin'
+import * as admin from 'firebase-admin'
 import { db } from "../database";
 
 export const getUserListingsRoute = {
