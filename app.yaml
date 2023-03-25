@@ -7,6 +7,3 @@ env_variables:
   DB_PASS: abc123
   DB_NAME: buy-and-sell
   DB_SOCKET: /cloudsql/buy-and-sell-8b196:us-central1:buy-and-sell-db
-automatic_scaling:
-  min_num_instances: 1
-  max_num_instances: 2
